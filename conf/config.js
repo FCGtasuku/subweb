@@ -4,7 +4,7 @@ window.config = {
   // API 地址
   apiUrl: 'https://a.y1z.org',
   // 短域名服务地址
-  shortUrl: 'https://suo.yt',
+  shortUrl: 'https://d.flysub.org',
   // 默认远程配置
   remoteConfigName: '默认配置',
   // 默认远程配置地址
@@ -12,9 +12,9 @@ window.config = {
   // 首页菜单
   menuItem: [
     {
-      title: '首页',
-      link: '/',
-      target: '',
+      title: 'whatismyip',
+      link: 'https://www.whatismyip.com/',
+      target: '_blank',
     },
     {
       title: 'ip',
